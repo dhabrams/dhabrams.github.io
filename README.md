@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/dhabrams/dhabrams.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![slide1](/images/Slide1.jpg)
+![slide1](/images/Slide1.JPG)
