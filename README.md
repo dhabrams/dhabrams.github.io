@@ -1,11 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dhabrams/dhabrams.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![slide1](/images/Slide1.JPG)
-![slide2](/images/Slide1.JPG)
-![slide3](/images/Slide1.JPG)
-![slide4](/images/Slide1.JPG)
-![slide5](/images/Slide1.JPG)
+![slide2](/images/Slide2.JPG)
+![slide3](/images/Slide3.JPG)
+![slide4](/images/Slide4.JPG)
+![slide5](/images/Slide5.JPG)
